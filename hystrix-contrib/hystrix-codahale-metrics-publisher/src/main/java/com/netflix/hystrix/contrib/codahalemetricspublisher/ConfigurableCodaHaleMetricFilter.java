@@ -58,6 +58,7 @@ public class ConfigurableCodaHaleMetricFilter implements MetricFilter{
         this.archaiusPropertyFactory = archaiusPropertyFactory;
     }
 
+    //增加
     @Override
     public boolean matches(String s, Metric metric) {
 
