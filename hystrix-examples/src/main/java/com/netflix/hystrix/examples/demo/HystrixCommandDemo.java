@@ -31,6 +31,7 @@ import com.netflix.hystrix.HystrixRequestLog;
 import com.netflix.hystrix.strategy.concurrency.HystrixRequestContext;
 
 /**
+ * 示例使用
  * Executable client that demonstrates the lifecycle, metrics, request log and behavior of HystrixCommands.
  */
 public class HystrixCommandDemo {
